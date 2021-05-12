@@ -1,3 +1,4 @@
+@test1
 Feature: User LonIn for Automation Practice
 
   As a user I want to LogIn successfully so that
